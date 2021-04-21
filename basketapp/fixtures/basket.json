@@ -1,0 +1,22 @@
+[
+  {
+    "model": "basketapp.basket",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "product": 1,
+      "quantity": 2,
+      "created_timestamp": "2021-03-10T11:46:32.931Z"
+    }
+  },
+  {
+    "model": "basketapp.basket",
+    "pk": 5,
+    "fields": {
+      "user": 1,
+      "product": 3,
+      "quantity": 2,
+      "created_timestamp": "2021-03-10T11:47:49.761Z"
+    }
+  }
+]

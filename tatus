@@ -1,0 +1,119 @@
+[33mcommit 87e31c40fdafd560a7b190c4fdaccb0a3d191173[m[33m ([m[1;36mHEAD -> [m[1;32mhw4[m[33m)[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Sat Mar 6 18:46:03 2021 +0600
+
+    hw4 fix header
+
+[33mcommit 6a6a72672ae00bae903dbad8a669b07ca23d5c97[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Sat Mar 6 14:44:18 2021 +0600
+
+    hw4 add login
+
+[33mcommit 113456738a4fa6211317430cbdce3279f0ea1e75[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Thu Mar 4 21:56:23 2021 +0600
+
+    hw4 create login and registr
+
+[33mcommit c60957009985ef24e26b5d5ff2a20e5646b5ca6d[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Thu Mar 4 20:10:24 2021 +0600
+
+    hw4 create authapp
+
+[33mcommit b2962d9f04b0cb5f4fdb06ad73746b7fe3435c9b[m[33m ([m[1;31morigin/hw3[m[33m, [m[1;32mhw3[m[33m)[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Mar 3 10:33:59 2021 +0600
+
+    hw3 add fixtures and urls
+
+[33mcommit 92c9fd608cf6fc59fc014a14e21580c5090f8f12[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Tue Mar 2 11:38:18 2021 +0600
+
+    hw3 media add
+
+[33mcommit 0fcfc49361747b2178d82051ed9ee2a76efadc4a[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Tue Mar 2 11:08:56 2021 +0600
+
+    hw3 admin add
+
+[33mcommit 0b911161d3f4a593815524a098f71ab5dba5441e[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Sun Feb 28 10:32:43 2021 +0600
+
+    hw3 created Product and ProductCategory
+
+[33mcommit f824d5f3d26b49c0e204baeb960edc059f037fd1[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Sat Feb 27 19:01:50 2021 +0600
+
+    hw3 add json
+
+[33mcommit 87279935e13af8aae4e421f66239649096bf5f44[m
+Merge: ee94560 25e776c
+Author: Valery Pavlikov <valerypavlikov@yandex.ru>
+Date:   Wed Feb 24 19:35:40 2021 +0300
+
+    Merge pull request #2 from iionov-hub/hw2
+    
+    Hw2
+
+[33mcommit 25e776c842931db920bbdbca9d12410a052c2ea4[m[33m ([m[1;31morigin/hw2[m[33m, [m[1;32mhw2[m[33m)[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Feb 24 22:17:41 2021 +0600
+
+    hw2 update url
+
+[33mcommit 1f6d294cd91566103bd2985a23b4b4d584293b77[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Feb 24 22:06:23 2021 +0600
+
+    hw2 update views
+
+[33mcommit 757a6c59319b09afcf57b7e8f37c01f56924c6b8[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Feb 24 22:02:10 2021 +0600
+
+    hw2 product_index_base
+
+[33mcommit 3523c0926563b16169ca2a9eaad09d1226e46b1f[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Feb 24 21:28:51 2021 +0600
+
+    hw2 product_view_3
+
+[33mcommit e718c8a23a56647af6ab03b9ff7082191cc11854[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Feb 24 16:40:34 2021 +0600
+
+    hw2 product_view_2
+
+[33mcommit 6c0dc49278c7da8b4bcd211856a679e3409c19b7[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Wed Feb 24 15:32:17 2021 +0600
+
+    hw2 product_view
+
+[33mcommit ee94560f4352b06c03a69727b51c661fb97ded46[m
+Merge: 197c3c0 4cf2bf7
+Author: Valery Pavlikov <valerypavlikov@yandex.ru>
+Date:   Mon Feb 22 21:54:30 2021 +0300
+
+    Merge pull request #1 from iionov-hub/hw1
+    
+    hw1
+
+[33mcommit 4cf2bf7dee1d8292b60cca6a456251616b31ece5[m[33m ([m[1;31morigin/hw1[m[33m, [m[1;32mhw1[m[33m)[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Mon Feb 22 08:44:50 2021 +0600
+
+    init
+
+[33mcommit 197c3c0baaf24db7d1a2729c018206770561aca0[m
+Author: Igor.Ionov <ionov89igor@gmail.com>
+Date:   Mon Feb 22 08:38:42 2021 +0600
+
+    init project
